@@ -16,3 +16,10 @@ In order to play on this server you must:
 What is defined as an active member?
 
 An active member of Top Speed attends floor events and is generally familiar with the rest of the floor. If you do not participate in floor-related activities, you are not an active member and therefore will not be granted access to the server.
+
+Contents
+--------
+.. toctree::
+
+   getting-started
+   app
