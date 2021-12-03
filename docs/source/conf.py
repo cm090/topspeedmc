@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Top Speed SMP'
+copyright = '2021, Tally Incrementors of Top Speed'
+author = 'Tally Incrementors of Top Speed'
 
 release = '0.1'
 version = '0.1.0'
