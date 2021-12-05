@@ -8,4 +8,6 @@ Contents
 .. toctree::
 
    getting-started
+   commands
    app
+   server-schedule
