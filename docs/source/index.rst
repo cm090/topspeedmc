@@ -8,6 +8,7 @@ Contents
 .. toctree::
 
    getting-started
+   community-policy
    commands
    app
    server-schedule
