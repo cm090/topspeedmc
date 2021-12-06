@@ -23,9 +23,9 @@ All server members (Speeners) are given access to a select number of commands. T
 
 - /list (show all online players)
 
-Moderators can use all of the above commands, but also have access to:
+- /maps and /tomap (creates a map from an online image)
 
-- /admingui (a set of moderation tools)
+Moderators can use all of the above commands, but also have access to:
 
 - /broadcast (send a server-wide message)
 
@@ -44,5 +44,7 @@ Moderators can use all of the above commands, but also have access to:
 - /lr (lag remover plugin)
 
 - /whitelist (allow new players to access the server)
+
+- /coreprotect (check user interaction logs, no restoration privileges
 
 Admins have access to every available command. Both mods and admins are prohibited from abusing their powers. If you suspect abuse, let another staff member know and the issue will be taken care of.
