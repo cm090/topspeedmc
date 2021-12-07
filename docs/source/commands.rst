@@ -1,6 +1,9 @@
 Commands
 ========
 
+Everyone
+--------
+
 All server members (Speeners) are given access to a select number of commands. These include:
 
 - /echest (open your personal ender chest)
@@ -24,6 +27,9 @@ All server members (Speeners) are given access to a select number of commands. T
 - /list (show all online players)
 
 - /maps and /tomap (creates a map from an online image)
+
+Mods & Admins
+-------------
 
 Moderators can use all of the above commands, but also have access to:
 
