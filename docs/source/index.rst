@@ -11,4 +11,5 @@ Contents
    community-policy
    commands
    app
+   off-campus
    server-schedule
