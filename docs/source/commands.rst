@@ -6,11 +6,11 @@ Everyone
 
 All server members (Speeners) are given access to a select number of commands. These include:
 
-- /echest (open your personal ender chest)
+- /ec (open your ender chest)
 
 - /back (teleport to previous location after warp or death)
 
-- /home and /sethome (create a personal warp to your base)
+- /home [name] and /sethome [name] (create a personal warp to your base, maximum 5)
 
 - /msg (send a private message to another player)
 
@@ -27,6 +27,23 @@ All server members (Speeners) are given access to a select number of commands. T
 - /list (show all online players)
 
 - /maps and /tomap (creates a map from an online image)
+
+- /region (make changes to land plots assigned by admins)
+
+- /motd (access link to documentation)
+
+- /say and /me (broadcast to everyone)
+
+Res Life
+--------
+
+RAs and SAs have access to all of the above commands, as well as:
+
+- /ban
+
+- /tempban
+
+- /kick
 
 Mods & Admins
 -------------
