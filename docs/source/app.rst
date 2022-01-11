@@ -6,7 +6,7 @@ Set up
 
 The Top Speed SMP is set up with access to LiveKit, a mobile server companion. Download the app from `rhit.cf/topspeed/mcapp <https://rhit.cf/topspeed/mcapp>`_ and connect your Minecraft account to get started. 
 
-The server IP is mc.topspeed.rhit.cf.
+The server IP is livekit.topspeed.rhit.cf.
 
 After connecting to the server through the LiveKit app, you will have to connect with your Minecraft account. Type /livekit claim on the server and enter the 6 digit code on the app.
 
