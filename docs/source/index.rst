@@ -12,4 +12,3 @@ Contents
    commands
    app
    off-campus
-   server-schedule
